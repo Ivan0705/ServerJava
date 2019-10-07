@@ -7,7 +7,6 @@
           <element id="module-output" name="helloWorldServlet" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="lib" />
           <element id="dir-copy" path="$PROJECT_DIR$/helloWorldServlet/lib" />
         </element>
         <element id="file-copy" path="$PROJECT_DIR$/helloWorldServlet/webapp/WEB-INF/web.xml" />
