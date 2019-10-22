@@ -7,17 +7,18 @@
           <element id="module-output" name="helloWorldServlet" />
         </element>
         <element id="directory" name="lib">
-          <element id="dir-copy" path="$PROJECT_DIR$/helloWorldServlet/lib" />
+          <element id="dir-copy" path="$PROJECT_DIR$/PhoneBookServlet/lib" />
+          <element id="library" level="project" name="com.google.code.gson:gson:2.8.0" />
         </element>
-        <element id="file-copy" path="$PROJECT_DIR$/helloWorldServlet/webapp/WEB-INF/web.xml" />
+        <element id="file-copy" path="$PROJECT_DIR$/PhoneBookServlet/webapp/WEB-INF/web.xml" />
       </element>
-      <element id="file-copy" path="$PROJECT_DIR$/helloWorldServlet/webapp/index.html" />
+      <element id="file-copy" path="$PROJECT_DIR$/PhoneBookServlet/webapp/index.html" />
       <element id="javaee-facet-resources" facet="helloWorldServlet/web/Web" />
       <element id="directory" name="css">
-        <element id="dir-copy" path="$PROJECT_DIR$/helloWorldServlet/webapp/css" />
+        <element id="dir-copy" path="$PROJECT_DIR$/PhoneBookServlet/webapp/css" />
       </element>
       <element id="directory" name="js">
-        <element id="dir-copy" path="$PROJECT_DIR$/helloWorldServlet/webapp/js" />
+        <element id="dir-copy" path="$PROJECT_DIR$/PhoneBookServlet/webapp/js" />
       </element>
     </root>
   </artifact>
