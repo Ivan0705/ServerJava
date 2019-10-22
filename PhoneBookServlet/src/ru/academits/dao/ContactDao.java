@@ -31,7 +31,7 @@ public class ContactDao {
             filterQuery = filterQuery.toLowerCase();
             List<Contact> filteredResults = new ArrayList<>();
 
-            for (Contact contact: contactList) {
+            for (Contact contact : contactList) {
                 if (Integer.toString(contact.getId()).equals(filterQuery)) {
                     filteredResults.add(contact);
                 } else if (contact.getPhone().equals(filterQuery)) {

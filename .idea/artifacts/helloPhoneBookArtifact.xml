@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" build-on-make="true" name="helloWorldArtifact">
-    <output-path>$PROJECT_DIR$/out/artifacts/helloWorldArtifact</output-path>
+  <artifact type="exploded-war" build-on-make="true" name="helloPhoneBookArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/helloPhoneBookArtifact</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="helloWorldServlet" />
+          <element id="module-output" name="PhoneBookServlet" />
         </element>
         <element id="directory" name="lib">
           <element id="dir-copy" path="$PROJECT_DIR$/PhoneBookServlet/lib" />
@@ -13,7 +13,7 @@
         <element id="file-copy" path="$PROJECT_DIR$/PhoneBookServlet/webapp/WEB-INF/web.xml" />
       </element>
       <element id="file-copy" path="$PROJECT_DIR$/PhoneBookServlet/webapp/index.html" />
-      <element id="javaee-facet-resources" facet="helloWorldServlet/web/Web" />
+      <element id="javaee-facet-resources" facet="PhoneBookServlet/web/Web" />
       <element id="directory" name="css">
         <element id="dir-copy" path="$PROJECT_DIR$/PhoneBookServlet/webapp/css" />
       </element>

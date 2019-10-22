@@ -3,7 +3,7 @@
     <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8089/" />
     <option name="UPDATING_POLICY" value="restart-server" />
     <deployment>
-      <artifact name="helloWorldArtifact">
+      <artifact name="helloPhoneBookArtifact">
         <settings>
           <option name="CONTEXT_PATH" value="/" />
         </settings>
@@ -69,7 +69,7 @@
     <method v="2">
       <option name="Make" enabled="true" />
       <option name="BuildArtifacts" enabled="true">
-        <artifact name="helloWorldArtifact" />
+        <artifact name="helloPhoneBookArtifact" />
       </option>
     </method>
   </configuration>

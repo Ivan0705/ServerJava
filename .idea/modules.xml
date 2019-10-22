@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PhoneBookServlet/PhoneBookServlet.iml" filepath="$PROJECT_DIR$/PhoneBookServlet/PhoneBookServlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServerJava.iml" filepath="$PROJECT_DIR$/ServerJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PhoneBookServlet/helloWorldServlet.iml" filepath="$PROJECT_DIR$/PhoneBookServlet/helloWorldServlet.iml" />
     </modules>
   </component>
 </project>
