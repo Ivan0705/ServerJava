@@ -20,7 +20,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>getAllContactsServlet</servlet-name>
-    <url-pattern>/phonebook/get/all?filter=</url-pattern>
+    <url-pattern>/phonebook/get/all</url-pattern>
   </servlet-mapping>
 
   <servlet-mapping>
@@ -30,6 +30,6 @@
 
   <servlet-mapping>
     <servlet-name>deleteContactsServlet</servlet-name>
-    <url-pattern>/phonebook/delete?id=</url-pattern>
+    <url-pattern>/phonebook/delete</url-pattern>
   </servlet-mapping>
 </web-app>

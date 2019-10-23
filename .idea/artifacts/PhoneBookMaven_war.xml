@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="PhoneBookMaven.war">
+    <root id="archive" name="helloworldmaven-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="PhoneBookMaven:war exploded" />
     </root>
   </artifact>
